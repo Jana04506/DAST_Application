@@ -29,4 +29,3 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         target: 'http://localhost:8000'
         fail_action: false
-```[cite: 1, 3]
